@@ -8,7 +8,7 @@ export const buttons = [{
     },
     {
         text: '3 Months',
-        value: 80,
+        value: 90,
     },
     {
         text: '1 Year',
